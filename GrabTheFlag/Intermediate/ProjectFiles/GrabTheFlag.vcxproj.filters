@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GrabTheFlag.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{58EBCFA1-5021-4F3E-8BF1-ED1EC2C0625B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GrabTheFlag.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GrabTheFlagEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{100EB5C7-0648-4258-B082-04854EA7F5A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GrabTheFlag">
+      <UniqueIdentifier>{0F7F9F7D-D2D2-442C-9B07-9E2CBF9FC4C0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GrabTheFlag\BonusGenerator.cpp">
+      <Filter>Source\GrabTheFlag</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrabTheFlag\BonusGenerator.h">
+      <Filter>Source\GrabTheFlag</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GrabTheFlag\GrabTheFlag.Build.cs">
+      <Filter>Source\GrabTheFlag</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GrabTheFlag\GrabTheFlag.cpp">
+      <Filter>Source\GrabTheFlag</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GrabTheFlag\GrabTheFlag.h">
+      <Filter>Source\GrabTheFlag</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

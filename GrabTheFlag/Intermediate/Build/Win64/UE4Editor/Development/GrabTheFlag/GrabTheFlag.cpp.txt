@@ -1,0 +1,2 @@
+C:\Users\mantis\Documents\Studia\Dwa\ZawnsowaneGry\GrabTheFlag\GrabTheFlag\Intermediate\Build\Win64\UE4Editor\Development\GrabTheFlag\Definitions.GrabTheFlag.h
+C:\Users\mantis\Documents\Studia\Dwa\ZawnsowaneGry\GrabTheFlag\GrabTheFlag\Source\GrabTheFlag\GrabTheFlag.h
