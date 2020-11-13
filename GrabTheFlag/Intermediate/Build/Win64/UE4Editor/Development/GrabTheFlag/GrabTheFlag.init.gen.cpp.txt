@@ -1,3 +1,0 @@
-C:\Users\mantis\Documents\Studia\Dwa\ZawnsowaneGry\GrabTheFlag\GrabTheFlag\Intermediate\Build\Win64\UE4Editor\Development\GrabTheFlag\Definitions.GrabTheFlag.h
-D:\game\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\game\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
